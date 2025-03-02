@@ -5,6 +5,8 @@
 // @author       Anubhav J.
 // @match        *://*/*
 // @grant        none
+// @updateURL    https://raw.githubusercontent.com/anubhavj99/asda-order-extraction/refs/heads/main/extract-asda-order-data.user.js
+// @downloadURL  https://raw.githubusercontent.com/anubhavj99/asda-order-extraction/refs/heads/main/extract-asda-order-data.user.js
 // ==/UserScript==
 
 (function() {
